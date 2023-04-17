@@ -1,1 +1,2 @@
-print(69)
+for x in range(10):
+    print(x)
